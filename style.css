@@ -16,7 +16,8 @@ div{
 h1{
     color: rgb(5, 199, 248);
 }
-input{
+#inputnumber{
+    width:20%;
     text-align: center;
     border: 2px solid;
     border-radius: 10px;
